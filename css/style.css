@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Abril Fatface');
+
+.container h1{
+    font-family: 'Abril Fatface' , sans-serif;
+    color: #CEA134;
+   
+}
+.container p {
+    font-weight: bold;
+    color: #f1f1f1;
+}
+.container {
+    font-family: 'Abril Fatface' , sans-serif;
+    background-image: url('https://t4.ftcdn.net/jpg/03/62/05/31/240_F_362053188_oQ0WRHCFkIY4QlXS1S5d1i9bpYup67ll.jpg');
+    background-size: cover;
+}
